@@ -1,0 +1,21 @@
+#image {
+    width: 600px;
+    height: 600px;
+    background-color: gray;
+    text-align: center;
+    line-height: 300px;
+    font-size: 25px;
+    color: pink;
+    border: 1px solid yellow;
+    background-size: 100% 100%;
+}
+
+img{
+    width: 250px;
+    height: 250px;
+    border: 1px solid yellow;
+    background-size: 100% 100%;
+}
+body{
+    background-color: black;
+}
